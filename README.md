@@ -87,4 +87,4 @@ Also feel free to send me an email with any problems, questions, or feedback.
 The Boost.Compute project is currently looking for additional developers with
 interest in parallel computing.
 
-Please send an email to Kyle Lutz (kyle.r.lutz@gmail.com) for more information.
+Please send an email to PanHao (pan.hao.000@gmail.com) for more information.
